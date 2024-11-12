@@ -71,8 +71,6 @@ else:
 
 ( 2 points; Answer due Week 7 )
 
-**Murray Cox** and **Tom Slee**
-
 :::
 
 An inline citation example: As discussed on @insideairbnb, there are many...
