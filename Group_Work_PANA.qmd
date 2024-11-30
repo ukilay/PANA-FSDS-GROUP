@@ -147,6 +147,14 @@ InsideAirbnb’s reliance on Airbnb’s platform introduces vulnerabilities, inc
 :::
 
 ## 5. What ethical considerations does the use of the InsideAirbnb data raise? 
+The ethical implications of using InsideAirbnb data stem from concerns about data quality, social impacts, and legal considerations. The reliance on Python scripts for web scraping, some of which are outdated or no longer maintained, undermines the data’s reliability. These scripts, sourced from platforms like GitHub, include disclaimers about their accuracy and highlight challenges caused by changes to Airbnb’s website layout, which degrade scraper performance (Slee, 2017). The dynamic nature of Airbnb’s platform compounds these issues, as deleted listings create incomplete datasets, compromising insights for urban planning and housing policy.
+
+While the InsideAirbnb Community Guidelines advocate “Do good with the data,” systemic errors and subjectivity in filtering criteria—such as thresholds for "highly available" listings—can skew analysis. Incorrect data due to systemic collection errors and arbitrary thresholds may misrepresent market dynamics and lead to unreliable research outcomes (Agina, 2023). Furthermore, limited transparency in data extraction processes hinders independent verification, raising concerns about validity and reproducibility. The periodic release of updated datasets ensures currency but complicates the replication of studies when earlier versions are unavailable or unspecified (Alsudais, 2021).
+
+Legal and privacy concerns also arise. The legality of web scraping varies by jurisdiction, with some viewing it as a breach of terms of service or copyright laws. Although anonymisation efforts shift geographic coordinates by up to 150 metres, privacy risks persist. The absence of informed consent from individuals whose data is used further complicates ethical compliance (Schaefer, 2018).
+InsideAirbnb’s data raises broader concerns about its role in addressing negative social impacts associated with Airbnb, including rising property prices, income inequality, and social segregation. The dataset’s selective geographic and temporal scope limits representativeness, while municipal governments face data deficits due to Airbnb’s privatisation of information. These issues hinder regulation of short-term rentals and efforts to mitigate community disruption and housing affordability challenges.
+
+Despite its limitations, InsideAirbnb’s open-access model reduces research inequalities but perpetuates disparities due to restricted geographic coverage and the inaccessibility of more comprehensive commercial datasets (Alsudais, 2021). Addressing these concerns requires rigorous validation processes, transparency in data collection, and adherence to ethical standards to ensure fairness, privacy, and accuracy in research and policymaking.
 
 ::: {.duedate}
 
