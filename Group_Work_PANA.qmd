@@ -105,10 +105,11 @@ An inline citation example: As discussed on @insideairbnb, there are many...
 A parenthetical citation example: There are many ways to research Airbnb [see, for example, @insideairbnb]... 
 
 ## 2. Why did they collect the InsideAirbnb data?
+Murray Cox was motivated to start collecting the data in 2014 while studying gentrification in Brooklyn, the project expanded to analyse Airbnb’s hidden effects in cities like New York and San Francisco. Cox and Slee, aligned in opposing Airbnb's portrayal of public data, gathered InsideAirbnb data to expose illegal renting and its negative housing market impacts. They sought to reveal the “lies” in Airbnb’s claims, with data proving evidence of scofflaws (Katz 2017). Cox also disputed Airbnb's claim that 87% of hosts rent out their primary homes (Lehr 2015). The data was collected to counter biased narratives, offering independent, open-access insights beyond Airbnb’s statistics or commercial providers.
 
 ::: {.duedate}
 
-Murray Cox was motivated to start collecting the data in 2014 while studying gentrification in Brooklyn, the project expanded to analyse Airbnb’s hidden effects in cities like New York and San Francisco. Cox and Slee, aligned in opposing Airbnb's portrayal of public data, gathered InsideAirbnb data to expose illegal renting and its negative housing market impacts. They sought to reveal the “lies” in Airbnb’s claims, with data proving evidence of scofflaws (Katz 2017). Cox also disputed Airbnb's claim that 87% of hosts rent out their primary homes (Lehr 2015). The data was collected to counter biased narratives, offering independent, open-access insights beyond Airbnb’s statistics or commercial providers.
+( 4 points; Answer due Week 7 )
 
 :::
 
@@ -134,15 +135,14 @@ The InsideAirbnb data was collected using automated web scraping, a method where
 :::
 
 ## 4. How does the method of collection impact the completeness and/or accuracy of the InsideAirbnb data set's representation of the process it seeks to study, and what wider issues does this raise?
-
-::: {.duedate}
-
-( 11 points; Answer due Week 9 )
 The data collection method employed by InsideAirbnb, which relies on automated web scraping, affects both the completeness and accuracy of its dataset. By capturing a snapshot of publicly available information at a specific moment, it overlooks temporal factors such as seasonal trends and changing guest preferences. Furthermore, the dataset excludes guest feedback, including reviews and ratings, limiting its analytical utility. Modifications to listings after data collection, the inability to differentiate between booked and unavailable nights, and Airbnb’s anonymisation policies—which can shift locations by up to 150 metres—skew key metrics like availability and occupancy rates (Alsudais, 2021).
 Reliance on web scraping introduces further limitations, including assumptions about review-to-booking ratios or average stay durations, which may not reflect actual behaviours. Issues such as mislinked data, for example, a Los Angeles property erroneously connected to a Tokyo experience, highlight the risks of inaccuracies. Additionally, structural changes to Airbnb’s website necessitate ongoing monitoring to maintain data reliability.
 The absence of Airbnb's raw data exacerbates these limitations, restricting access to detailed booking records, guest demographics, and host behaviour over time. Without this proprietary data, researchers face challenges in conducting comprehensive analyses of pricing strategies, socio-economic impacts, and market trends. This lack of granularity can result in incomplete or misleading findings when applied to housing policy or urban planning (Alsudais, 2021).
 InsideAirbnb’s reliance on Airbnb’s platform introduces vulnerabilities, including periodic anonymisation of location data, which compromises reproducibility. Despite its widespread use, the dataset has undergone limited independent validation, raising concerns about its reliability and broader impact. Ethical issues regarding data accessibility, privacy, and validity further complicate its application in urban development and policy-making, emphasising the need for robust validation and transparency in data collection.
 
+::: {.duedate}
+
+( 11 points; Answer due Week 9 )
 
 :::
 
