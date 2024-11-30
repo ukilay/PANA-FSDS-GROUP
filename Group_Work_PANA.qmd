@@ -123,6 +123,7 @@ ax.set_xlim([0,500]);
 ```
 
 ## 3. How was the InsideAirbnb data collected?  
+The InsideAirbnb data was collected using automated web scraping, a method where scripts extract information from Airbnb's website by parsing its HTML content. Collaborator Michael "Ziggy" Mintz automated the scraping process (InsideAirbnb website), while Murray Cox compiled, analysed, and built the platform. Python scripts were used to collect snapshots of public data via the Airbnb website periodically, replacing older data for each location (Alsudais 2021). In the first stage, they browsed the Airbnb website to look for All listings within a city. If any listing was not visible. Then, in the second stage, the program would visit the page of each listing to collect the detailed information of that listing (Cox and Slee, 2016).
 
 ::: {.duedate}
 
