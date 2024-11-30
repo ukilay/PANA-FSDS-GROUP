@@ -108,7 +108,7 @@ A parenthetical citation example: There are many ways to research Airbnb [see, f
 
 ::: {.duedate}
 
-( 4 points; Answer due Week 7 )
+Murray Cox was motivated to start collecting the data in 2014 while studying gentrification in Brooklyn, the project expanded to analyse Airbnb’s hidden effects in cities like New York and San Francisco. Cox and Slee, aligned in opposing Airbnb's portrayal of public data, gathered InsideAirbnb data to expose illegal renting and its negative housing market impacts. They sought to reveal the “lies” in Airbnb’s claims, with data proving evidence of scofflaws (Katz 2017). Cox also disputed Airbnb's claim that 87% of hosts rent out their primary homes (Lehr 2015). The data was collected to counter biased narratives, offering independent, open-access insights beyond Airbnb’s statistics or commercial providers.
 
 :::
 
