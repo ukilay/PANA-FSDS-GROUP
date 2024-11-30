@@ -58,7 +58,7 @@ Student Numbers:
 
 | What Went Well | What Was Challenging |
 | -------------- | -------------------- |
-| A              | B                    |
+| A              | The acquisition of historical open-source data is restricted. It can only be obtained through "Index of /~jreades/data". Although it is sufficient, the snapshots are not taken at the same fixed time each year.                    |
 | C              | D                    |
 
 ## Priorities for Feedback
