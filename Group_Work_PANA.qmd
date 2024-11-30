@@ -92,6 +92,8 @@ else:
 
 ## 1. Who collected the InsideAirbnb data?
 
+InsideAirbnb data is primarily collected by founders Murray Cox and Tom Slee. Murray is a community artist and activist and Tom is a former Airbnb host and a researcher. Key collaborators may have also contributed to collecting the data such as Taylor Higgins, Alice Corona, Michael Mintz, and Anya Sophe Behn. 
+
 ::: {.duedate}
 
 ( 2 points; Answer due Week 7 )
