@@ -1,0 +1,140 @@
+@misc{insideairbnb,
+	author       = {InsideAirbnb},
+	publisher    = {Inside Airbnb},
+	title        = {Inside Airbnb: Home},
+    year         = {2016},
+	url          = {https://insideairbnb.com/get-the-data/},
+    Publisheddate= {04 December 2023}
+}
+
+@article{Lehr:2015,
+	author      = {Lehr, D.D},
+    publisher   = {Dominican Scholar},
+	title       = {An Analysis of the Changing Competitive Landscape in the Hotel Industry Regarding Airbnb },
+    year        = {2015},
+	url         = {https://scholar.dominican.edu/cgi/viewcontent.cgi?article=1189&context=masters-theses}
+}
+
+@article{cox2016,
+    author       = {Cox, Murray and Slee, Tom},
+    title        = {How Airbnb's Data Hid the Facts in New York City},
+    publisher    = {Inside Airbnb},
+    year         = {2016},
+    pages        = {14},
+    url          = {https://insideairbnb.com/reports/how-airbnbs-data-hid-the-facts-in-new-york-city.pdf},
+    Publisheddate= {10 February 2016}
+}
+
+@article{alsudais2021,
+    author       = {Alsudais, Abdulkareem},
+    title        = {Incorrect data in the widely used Inside Airbnb dataset},
+    journal      = {Decision Support Systems},
+    volume       = {141},
+    year         = {2021},
+    issn         = {0167-9236},
+    doi          = {https://doi.org/10.1016/j.dss.2020.113453},
+    url          = {https://www.sciencedirect.com/science/article/pii/S0167923620302086},
+    keywords     = {Data quality, Research reproducibility, Open data, Numerical data},
+    Publisheddate= {08 January 2021}
+}
+
+
+@article{slee2017,
+    author       = {Slee, Tom},
+    publisher    = {Parabola and Wordpress},
+    title        = {Airbnb Data Collection: Methodology and Accuracy},
+    year         = {2017},
+    url          = {https://tomslee.net/2017/10/airbnb-data-collection-announcement.html},
+    Publisheddate= {09 October 2017}
+}
+
+
+@Inbook{schaefer2018,
+    author       = {Schaefer, G. Owen and Labude, Markus K. and Nasir, Harisan Unais},
+    title        = {Big Data: Ethical Considerations},
+    bookTitle    = {The Palgrave Handbook of Philosophy and Public Policy},
+    publisher    = {Springer International Publishing},
+    year         = {2018},
+    pages        = {"593--607"},
+    isbn         = {978-3-319-93907-0},
+    doi          = {https://doi.org/10.1007/978-3-319-93907-0_45},
+    url          = {https://link.springer.com/chapter/10.1007/978-3-319-93907-0_45},
+    Publisheddate= {09 October 2018}
+}
+
+
+@article{agina2023,
+    author       = {Agina, M.F., Aliane, N., Sawy, O.E., Khairy, H.A. and Fayyad, S.},
+    title        = { Risks in Relation to Adopting Airbnb Accommodation: The Role of Fear of COVID-19},
+    journal      = {Sustainability},
+    volume       = {15},
+    number       = {6},
+    year         = {2023},
+    doi          = {https://doi.org/10.3390/su15065050},
+    url          = {https://www.mdpi.com/2071-1050/15/6/5050},
+    Publisheddate= {13 March 2023}
+}
+
+@article{rozena2018,
+    author       = {Sharda Rozena and Loretta Lees},
+    title        = {The everyday lived experiences of Airbnbification in London. Social & Cultural Geography},
+    publisher    = {Routledge},
+    volume       = {24},
+    number       = {2},
+    pages        = {253--273},
+    year         = {2021},
+    doi          = {https://doi.org/10.1080/14649365.2021.1939124},
+    url          = {https://link.springer.com/chapter/10.1007/978-3-319-93907-0_45},
+    Publisheddate= {14 June 2021}
+}
+
+@misc{katz2017,
+	author       = {Miranda Katz},
+	publisher    = {WIRED},
+	title        = {A Lone Data Whiz Is Fighting Airbnb — and Winning},
+    year         = {2017},
+	url          = {https://www.wired.com/2017/02/a-lone-data-whiz-is-fighting-airbnb-and-winning/},
+    Publisheddate= {10 February 2017}
+}
+
+@misc{Airbnb_2022,
+    title={Written evidence submitted by Airbnb - Committees},
+    url={https://committees.parliament.uk/writtenevidence/42199/pdf},
+    journal={UK Parliament},
+    author={Airbnb},
+    year={2022}
+} 
+
+@misc {A Lusher_2018, 
+    title= {Almost 100 grenfell families without home of their own this Christmas, 18 months later},
+    url-{https://www.independent.co.uk/news/uk/home-news/grenfell-tower-fire-families-housing-christmas-
+kensington-chelsea-council-theresa-may-a8696941.html}, 
+    journal={The Independent}, 
+    publisher= {Independent Digital News and Media}, 
+    author={A Lusher}, 
+    year= {2018}, month= {Dec} 
+}
+
+@misc{benito_sanchez__2019,
+        title={ Towering Grenfell: Reflections around Socioeconomic Disadvantage in Antidiscrimination Law },
+        author={ Benito Sanchez and Benito Sanchez and Juan Carlos },
+        journal={ Social Science Research Network },
+        year={ 2019 },
+}
+
+@article{karima_kourtit__2022,
+        title={ Airbnb and COVID-19: SPACE-TIME vulnerability effects in six world-cities },
+        author={ Karima Kourtit and Peter Nijkamp and John Osth and Umut Turk },
+        journal={ Tourism Management },
+        year={ 2022 },
+        
+        volume={ 93 },
+        pages={ 104569-104569 },
+        
+        
+        
+        doi={ 10.1016/j.tourman.2022.104569 },  
+}
+
+
+
