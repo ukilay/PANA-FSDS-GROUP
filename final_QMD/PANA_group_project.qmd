@@ -54,7 +54,7 @@ pass
 
 ## Declaration of Authorship {.unnumbered .unlisted}
 
-We, **PANA**, pledge our honour that the work presented in this assessment is our own. Where information has been derived from other sources, we confirm that this has been indicated in the work. Where a Large Language Model such as ChatGPT has been used we confirm that we have made its contribution to the final submission clear.
+We, **PANA**, pledge our honour that the work presented in this assessment is our own. Where information has been derived from other sources, we confirm that this has been indicated in the work. Language Models such as Chatgpt has been used to check spelling, punctuation and grammar.
 
 Date: 16/12/2024
 
