@@ -52,7 +52,6 @@ jupyter:
 pass
 ```
 
-
 ## Declaration of Authorship {.unnumbered .unlisted}
 
 We, **PANA**, pledge our honour that the work presented in this assessment is our own. Where information has been derived from other sources, we confirm that this has been indicated in the work. Where a Large Language Model such as ChatGPT has been used we confirm that we have made its contribution to the final submission clear.
@@ -135,6 +134,37 @@ InsideAirbnb’s data raises broader concerns about its role in addressing negat
 Despite limitations, InsideAirbnb’s open-access model reduces research inequality but perpetuates disparities due to limited coverage and the inaccessibility of commercial datasets [@alsudais2021].  Addressing these concerns requires rigorous validation processes, transparency in data collection, and adherence to ethical standards to ensure fairness, privacy, and accuracy in research and policymaking.
 
 {{< pagebreak >}}
+
+```{python}
+#| echo: false
+# download files
+import requests
+
+# Define URLs and output filenames
+files_to_download = {
+    "https://raw.githubusercontent.com/ukilay/PANA-FSDS-GROUP/main/final_QMD/bio.bib": "bio.bib",
+    "https://raw.githubusercontent.com/ukilay/PANA-FSDS-GROUP/main/final_QMD/harvard-cite-them-right.csl": "harvard-cite-them-right.csl"
+}
+
+# Loop through each file and download
+for url, output_file in files_to_download.items():
+    try:
+        # Sending a GET request to the URL
+        response = requests.get(url, stream=True)
+        response.raise_for_status()  # Raise an error for bad HTTP status codes
+
+        # Writing the content to the local file
+        with open(output_file, "wb") as file:
+            for chunk in response.iter_content(chunk_size=8192):
+                file.write(chunk)
+
+        # Uncomment to confirm successful download
+        # print(f"File downloaded successfully as {output_file}")
+    except requests.exceptions.RequestException as e:
+        # Uncomment to see errors during download
+        # print(f"An error occurred while downloading {output_file}: {e}")
+        pass  # Ensure no syntax errors if except block is empty
+```
 
 ```{python}
 #| echo: false
@@ -663,7 +693,7 @@ def plot_combined_professional_density(
     # Set overall title
     #plt.suptitle(title, fontsize=18, y=0.95)
     plt.tight_layout(rect=[0, 0, 1, 0.92])
-    plt.savefig(output_file, dpi=300)
+    #plt.savefig(output_file, dpi=300)
     plt.show()
 
 
